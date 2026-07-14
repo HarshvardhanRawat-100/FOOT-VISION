@@ -10,3 +10,5 @@ data/keypoints/*.npy
 *.pt
 annotated_output.mp4
 data/clip_check_*/
+test_skeleton_output.jpg
+.DS_Store
