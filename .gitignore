@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+artifacts/
+logs/
+models/*.pth
+data/raw_clips/
+data/frames/
+data/keypoints/*.npy

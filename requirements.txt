@@ -1,0 +1,15 @@
+ultralytics
+opencv-python-headless
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+scipy
+gradio
+yt-dlp
+dtaidistance
+matplotlib
+Pillow
+huggingface-hub
+-e .

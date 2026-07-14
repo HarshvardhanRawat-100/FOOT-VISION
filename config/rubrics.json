@@ -1,0 +1,10 @@
+{
+  "header": {
+    "torso_lean": {"ideal_min": 8, "ideal_max": 18, "weight": 0.5, "low_feedback": "Torso angle off — pros arch back slightly through the hips before snapping forward into the header for power"},
+    "knee_bend": {"ideal_min": 155, "ideal_max": 178, "weight": 0.5, "low_feedback": "Knees should stay closer to fully extended at peak jump — bent knees here suggest mistimed takeoff"}
+  },
+  "Volley": {
+    "knee_bend": {"ideal_min": 130, "ideal_max": 155, "weight": 0.6, "low_feedback": "Knee angle off — elite volleys keep the striking leg compact through contact, not fully extended or overly bent"},
+    "torso_lean": {"ideal_min": 0, "ideal_max": 10, "weight": 0.4, "low_feedback": "Stay more upright and balanced over the ball — excess lean reduces control on a volley strike"}
+  }
+}
