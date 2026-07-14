@@ -7,3 +7,6 @@ models/*.pth
 data/raw_clips/
 data/frames/
 data/keypoints/*.npy
+*.pt
+annotated_output.mp4
+data/clip_check_*/
