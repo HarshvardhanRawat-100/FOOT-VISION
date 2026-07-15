@@ -63,7 +63,7 @@ demo = gr.Interface(
         gr.Textbox(label="Analysis"),
     ],
     title="FootVision",
-    description="Upload a football shot clip (header or volley) to get AI-powered technique feedback.",
+    description="Upload a football shot clip (Header , Volley , Penalty or Free_kick ) to get AI-powered technique feedback.",
 )
 
 if __name__ == "__main__":
