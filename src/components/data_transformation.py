@@ -14,7 +14,7 @@ SEQ_LEN = 60
 LEFT_HIP, RIGHT_HIP = 11, 12
 LEFT_SHOULDER, RIGHT_SHOULDER = 5, 6
 
-SHOT_CLASSES = ["header", "Volley"]  # matches your current labels.csv exactly
+SHOT_CLASSES = ["header", "Volley", "penalty", "free_kick"]  # matches your current labels.csv exactly
 
 
 @dataclass
