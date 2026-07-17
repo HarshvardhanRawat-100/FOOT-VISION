@@ -12,7 +12,7 @@ from src.exception import FootVisionException
 from src.logger import logging
 from src.utils import load_numpy_array
 
-NUM_CLASSES = 4  # header, Volley , penalty , free kick — update this when you add more classes
+NUM_CLASSES = 6  # header, Volley , penalty , free kick — update this when you add more classes
 
 
 class ShotClassifierCNN(nn.Module):

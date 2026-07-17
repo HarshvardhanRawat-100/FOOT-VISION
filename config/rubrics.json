@@ -14,5 +14,13 @@
   "free_kick": {
     "knee_bend": {"ideal_min": 135, "ideal_max": 160, "weight": 0.5, "low_feedback": "Knee angle off — free kicks need a controlled wrap through the ball, not a fully extended or overly bent strike"},
     "torso_lean": {"ideal_min": 5, "ideal_max": 18, "weight": 0.5, "low_feedback": "Torso lean off — lean slightly into the strike for curl and power on a free kick"}
-  }
+  },
+  "instep_drive": {
+  "knee_bend": {"ideal_min": 140, "ideal_max": 165, "weight": 0.6, "low_feedback": "Knee angle off — power shots need full extension through contact for maximum drive"},
+  "torso_lean": {"ideal_min": 5, "ideal_max": 18, "weight": 0.4, "low_feedback": "Torso lean off — lean slightly forward to keep the shot low and powerful"}
+},
+"curl_finesse": {
+  "knee_bend": {"ideal_min": 130, "ideal_max": 155, "weight": 0.5, "low_feedback": "Knee angle off — curl shots need a more controlled, compact strike than a power shot"},
+  "torso_lean": {"ideal_min": 8, "ideal_max": 20, "weight": 0.5, "low_feedback": "Torso lean off — lean into the curl for wrap and swerve on the ball"}
+}
 }
