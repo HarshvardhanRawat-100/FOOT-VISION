@@ -14,7 +14,7 @@ SEQ_LEN = 60
 LEFT_HIP, RIGHT_HIP = 11, 12
 LEFT_SHOULDER, RIGHT_SHOULDER = 5, 6
 
-SHOT_CLASSES = ["header", "Volley", "penalty", "free_kick", "instep_drive(POWER SHOT)", "curl_finesse"]
+SHOT_CLASSES = ["header", "Volley", "penalty", "free_kick", "Instep_drive(power_shot)", "curl_finesse"]
 
 
 @dataclass

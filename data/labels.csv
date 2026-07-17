@@ -1,4 +1,19 @@
 clip_id,shot_class
+Instep drive (power s_15hot),Instep_drive(power_shot)
+Instep drive (power shot)_01,Instep_drive(power_shot)
+Instep drive (power shot)_02,Instep_drive(power_shot)
+Instep drive (power shot)_03,Instep_drive(power_shot)
+Instep drive (power shot)_04,Instep_drive(power_shot)
+Instep drive (power shot)_05,Instep_drive(power_shot)
+Instep drive (power shot)_06,Instep_drive(power_shot)
+Instep drive (power shot)_07,Instep_drive(power_shot)
+Instep drive (power shot)_08,Instep_drive(power_shot)
+Instep drive (power shot)_09,Instep_drive(power_shot)
+Instep drive (power shot)_10,Instep_drive(power_shot)
+Instep drive (power shot)_11,Instep_drive(power_shot)
+Instep drive (power shot)_12,Instep_drive(power_shot)
+Instep drive (power shot)_13,Instep_drive(power_shot)
+Instep drive (power shot)_14,Instep_drive(power_shot)
 Volley_01,Volley
 Volley_02,Volley
 Volley_03,Volley
@@ -14,6 +29,21 @@ Volley_12,Volley
 Volley_13,Volley
 Volley_14,Volley
 Volley_15,Volley
+Curl - finesse shot_01,curl_finesse
+Curl - finesse shot_03,curl_finesse
+Curl - finesse shot_04,curl_finesse
+Curl - finesse shot_05,curl_finesse
+Curl - finesse shot_06,curl_finesse
+Curl - finesse shot_07,curl_finesse
+Curl - finesse shot_08,curl_finesse
+Curl - finesse shot_09,curl_finesse
+Curl - finesse shot_10,curl_finesse
+Curl - finesse shot_11,curl_finesse
+Curl - finesse shot_12,curl_finesse
+Curl - finesse shot_13,curl_finesse
+Curl - finesse shot_14,curl_finesse
+Curl - finesse shot_15,curl_finesse
+Curl-finesse shot_02,curl_finesse
 free_kick_01,free_kick
 free_kick_02,free_kick
 free_kick_03,free_kick
