@@ -1,19 +1,4 @@
 clip_id,shot_class
-Instep drive (power s_15hot),Instep_drive(power_shot)
-Instep drive (power shot)_01,Instep_drive(power_shot)
-Instep drive (power shot)_02,Instep_drive(power_shot)
-Instep drive (power shot)_03,Instep_drive(power_shot)
-Instep drive (power shot)_04,Instep_drive(power_shot)
-Instep drive (power shot)_05,Instep_drive(power_shot)
-Instep drive (power shot)_06,Instep_drive(power_shot)
-Instep drive (power shot)_07,Instep_drive(power_shot)
-Instep drive (power shot)_08,Instep_drive(power_shot)
-Instep drive (power shot)_09,Instep_drive(power_shot)
-Instep drive (power shot)_10,Instep_drive(power_shot)
-Instep drive (power shot)_11,Instep_drive(power_shot)
-Instep drive (power shot)_12,Instep_drive(power_shot)
-Instep drive (power shot)_13,Instep_drive(power_shot)
-Instep drive (power shot)_14,Instep_drive(power_shot)
 Volley_01,Volley
 Volley_02,Volley
 Volley_03,Volley
@@ -74,18 +59,18 @@ header_12,header
 header_13,header
 header_14,header
 header_15,header
-penalty_01,penalty
-penalty_02,penalty
-penalty_03,penalty
-penalty_04,penalty
-penalty_05,penalty
-penalty_06,penalty
-penalty_07,penalty
-penalty_08,penalty
-penalty_09,penalty
-penalty_10,penalty
-penalty_11,penalty
-penalty_12,penalty
-penalty_13,penalty
-penalty_14,penalty
-penalty_15,penalty
+Instep drive (power s_15hot),instep_drive(power_shot)
+Instep drive (power shot)_01,instep_drive(power_shot)
+Instep drive (power shot)_02,instep_drive(power_shot)
+Instep drive (power shot)_03,instep_drive(power_shot)
+Instep drive (power shot)_04,instep_drive(power_shot)
+Instep drive (power shot)_05,instep_drive(power_shot)
+Instep drive (power shot)_06,instep_drive(power_shot)
+Instep drive (power shot)_07,instep_drive(power_shot)
+Instep drive (power shot)_08,instep_drive(power_shot)
+Instep drive (power shot)_09,instep_drive(power_shot)
+Instep drive (power shot)_10,instep_drive(power_shot)
+Instep drive (power shot)_11,instep_drive(power_shot)
+Instep drive (power shot)_12,instep_drive(power_shot)
+Instep drive (power shot)_13,instep_drive(power_shot)
+Instep drive (power shot)_14,instep_drive(power_shot)

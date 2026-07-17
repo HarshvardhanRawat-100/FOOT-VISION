@@ -7,15 +7,11 @@
     "knee_bend": {"ideal_min": 130, "ideal_max": 155, "weight": 0.6, "low_feedback": "Knee angle off — elite volleys keep the striking leg compact through contact, not fully extended or overly bent"},
     "torso_lean": {"ideal_min": 0, "ideal_max": 10, "weight": 0.4, "low_feedback": "Stay more upright and balanced over the ball — excess lean reduces control on a volley strike"}
   },
-  "penalty": {
-    "knee_bend": {"ideal_min": 140, "ideal_max": 165, "weight": 0.6, "low_feedback": "Knee angle off at contact — keep the striking leg controlled through the ball for placement accuracy"},
-    "torso_lean": {"ideal_min": 5, "ideal_max": 15, "weight": 0.4, "low_feedback": "Torso lean off — stay balanced and slightly forward for a controlled penalty strike"}
-  },
   "free_kick": {
     "knee_bend": {"ideal_min": 135, "ideal_max": 160, "weight": 0.5, "low_feedback": "Knee angle off — free kicks need a controlled wrap through the ball, not a fully extended or overly bent strike"},
     "torso_lean": {"ideal_min": 5, "ideal_max": 18, "weight": 0.5, "low_feedback": "Torso lean off — lean slightly into the strike for curl and power on a free kick"}
   },
-  "instep_drive": {
+  "instep_drive(power_shot)": {
   "knee_bend": {"ideal_min": 140, "ideal_max": 165, "weight": 0.6, "low_feedback": "Knee angle off — power shots need full extension through contact for maximum drive"},
   "torso_lean": {"ideal_min": 5, "ideal_max": 18, "weight": 0.4, "low_feedback": "Torso lean off — lean slightly forward to keep the shot low and powerful"}
 },
