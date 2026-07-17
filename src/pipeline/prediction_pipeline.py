@@ -45,4 +45,4 @@ if __name__ == "__main__":
     keypoints = extract_keypoints_from_video("data/raw_clips/header/header_02.mp4")
     pipeline = PredictionPipeline()
     result = pipeline.predict(keypoints)
-    print(result))
+    print(result)
