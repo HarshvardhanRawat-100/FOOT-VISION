@@ -1,5 +1,12 @@
 # FootVision ⚽
 
+
+
+https://github.com/user-attachments/assets/b8156edd-93ac-4912-95d0-0f00d0e9521d
+
+
+
+
 AI-powered football shot technique analysis. Upload a clip, get skeleton tracking, biomechanics measurements, and a technique score with actionable feedback.
 
 ## What it does
